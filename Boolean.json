@@ -1,0 +1,7 @@
+ [{
+     firstName: "User",
+     lastName: "Peixoto",
+     salary: 90000,
+     birthDate: "2020-12-31",
+     terminated: false,
+   }]
